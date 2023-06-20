@@ -1,0 +1,28 @@
+.container{
+    border: 3px solid black;
+  width: 20vw;
+  height: 69vh;
+}
+.contact{
+    background-color: black;
+    color: antiquewhite;
+   padding-left: 2em;
+   margin-top: 3.5em;
+}
+h1,h2{
+    padding-left: 49px;
+    font-family: sans-serif;
+}
+h3{
+    padding-left: 50px;
+    color: silver;
+    font-family: sans-serif;
+}
+p{
+    padding-left: 49px;
+    font-family: sans-serif;
+}
+img{
+    width: 20vw;
+    height: 30vh;
+}
